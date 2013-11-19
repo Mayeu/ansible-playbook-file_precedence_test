@@ -1,0 +1,3 @@
+---
+- name: copy the files
+  copy: src=files/test_file dest=/etc/

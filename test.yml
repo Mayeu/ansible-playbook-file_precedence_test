@@ -1,0 +1,6 @@
+---
+- hosts: all
+  user: vagrant
+  sudo: yes
+  roles:
+    - precedence_test
