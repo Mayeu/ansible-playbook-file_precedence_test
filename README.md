@@ -1,4 +1,4 @@
-#File precedence illustratian
+#File precedence illustration
 
 Example playbook to illustrate the file precedence.
 
